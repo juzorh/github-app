@@ -1,2 +1,2 @@
 # github-app
-App for searching and fetching GitHub repoa
+App for searching and fetching GitHub repositories
